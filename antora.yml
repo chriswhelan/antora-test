@@ -1,0 +1,4 @@
+name: component-one
+title: First Component
+nav:
+- modules/ROOT/nav.adoc
